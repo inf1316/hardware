@@ -1,0 +1,47 @@
+E:\COSAS DE LA ESCUELA\CODIGO C#\Test\hardware\hardware\bin\Debug\hardware.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Test\hardware\hardware\bin\Debug\hardware.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Test\hardware\hardware\bin\Debug\hardware.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Test\hardware\hardware\obj\Debug\hardware.csprojResolveAssemblyReference.cache
+E:\COSAS DE LA ESCUELA\CODIGO C#\Test\hardware\hardware\obj\Debug\hardware.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Test\hardware\hardware\obj\Debug\hardware.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Actuales\hardware1.0\hardware\bin\Debug\hardware.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Actuales\hardware1.0\hardware\obj\Debug\hardware.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Actuales\hardware1.0\hardware\obj\Debug\hardware.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Actuales\hardware1.0\hardware\bin\Debug\hardware.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Actuales\hardware1.0\hardware\bin\Debug\hardware.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Actuales\hardware1.0\hardware\obj\Debug\hardware.csprojResolveAssemblyReference.cache
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\hardware.exe.config
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\obj\Debug\hardware.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\obj\Debug\hardware.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\hardware.exe
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\hardware.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\obj\Debug\hardware.csprojResolveAssemblyReference.cache
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\Mono.Security.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\Npgsql.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\policy.2.0.Npgsql.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\Npgsql.pdb
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\Npgsql.xml
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\de\Npgsql.resources.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\es\Npgsql.resources.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\fi\Npgsql.resources.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\fr\Npgsql.resources.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\ja\Npgsql.resources.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\COSAS DE LA ESCUELA\CODIGO C#\Escritorio\Actuales\hardware1.0\hardware\bin\Debug\policy.2.0.Npgsql.config
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\hardware.exe.config
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\hardware.exe
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\hardware.pdb
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\Npgsql.pdb
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\Npgsql.xml
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\de\Npgsql.resources.dll
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\es\Npgsql.resources.dll
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\fi\Npgsql.resources.dll
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\fr\Npgsql.resources.dll
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\ja\Npgsql.resources.dll
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\zh-CN\Npgsql.resources.dll
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\bin\Debug\policy.2.0.Npgsql.config
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\obj\Debug\hardware.csprojAssemblyReference.cache
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\obj\Debug\hardware.csproj.CoreCompileInputs.cache
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\obj\Debug\hardware.csproj.CopyComplete
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\obj\Debug\hardware.exe
+E:\www\yii2\Actuales\hardware\aplicacion\hardware\obj\Debug\hardware.pdb
